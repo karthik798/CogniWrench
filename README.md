@@ -1,7 +1,7 @@
 ﻿# CogniWrench
 
 > [!NOTE]  
-> The project is deployed on Vercel's free plan, causing initial load delays as the node sleeps during inactivity. This is due to the free plan's dormancy feature.
+> The initial loading delay is attributed to dormancy caused by the free plan on Vercel. Additionally, ongoing app loading and response times may be slower due to the limitations of the free plan.
 
 > [!IMPORTANT]  
 > The OpenAI and ReplicateAI API's are on a free plan, so at the time of your visit, it may not be working due to the expiration of the free trial.
