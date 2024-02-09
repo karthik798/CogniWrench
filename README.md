@@ -4,7 +4,7 @@
 > The project is deployed on Vercel's free plan, causing initial load delays as the node sleeps during inactivity. This is due to the free plan's dormancy feature.
 
 > [!IMPORTANT]  
-> The OpenAI and ReplicateAI are on a free plan, so at the time of your visit, it may not be working due to the expiration of the free trial.
+> The OpenAI and ReplicateAI API's are on a free plan, so at the time of your visit, it may not be working due to the expiration of the free trial.
 
 ## Features
 
