@@ -21,14 +21,23 @@
 - Stripe Integration
 - Free tier with API limiting
 
-### Database
+### Database (PlanetScale - MySQL)
 
-Add MySQL Database (I used PlanetScale)
+To generate the Prisma Client based on your schema
+
+```shell
+npx prisma generate
+
+```
+
+To apply these migrations
 
 ```shell
 npx prisma db push
 
 ```
+
+---
 
 ### Start the app
 
