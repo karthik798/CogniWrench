@@ -21,7 +21,7 @@
 - Stripe Integration
 - Free tier with API limiting
 
-### Database (PlanetScale - MySQL)
+### Database (aiven - MySQL)
 
 To generate the Prisma Client based on your schema
 
